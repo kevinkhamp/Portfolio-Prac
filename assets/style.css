@@ -10,7 +10,7 @@ body {
 
 main {
     display: flex;
-    margin-right: 20%;
+    padding-right: 20%;
 }
 
 header {
@@ -43,7 +43,7 @@ header nav ul{
 
 header nav ul li {
     display: inline-block;
-    margin-left: 25px;
+    padding-left: 25px;
 }
 
 a {
@@ -60,26 +60,27 @@ a {
 }
 
 #about-me, #work, #contact-me {
-    margin-bottom: 32px;
+    margin-bottom: 30px;
     display: flex;
     text-align: left;
 }
 
 h2 {
+    background-color: white;
     float: left;
-    margin-left: 10%;
+    padding-left: 10%;
 }
 
 #about-me p, #work p{
     float: right;
     text-align: center;
-    margin-left: 49%;
+    padding-left: 5%;
 }
 
 #contact-me p {
     float: right;
     text-align: right;
-    margin-left: 5%;
+    padding-left: 5%;
 }
 
 footer {
