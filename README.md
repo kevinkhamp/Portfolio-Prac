@@ -6,7 +6,9 @@ This repository contains a mild mockup of the mockup from Challenge 2 to asses m
 
 ## Visuals
 
-##Installation
+[TB]
+
+## Installation
 
 https://shimpfierie.github.io/Challenge-2/
 
